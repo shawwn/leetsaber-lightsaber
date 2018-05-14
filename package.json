@@ -7,5 +7,27 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "sweetiebird": {
+    "title": "Lightsaber",
+    "description": "The default lightsabers",
+    "for": "leetsaber",
+    "screenshots": [
+      "https://i.imgur.com/cL6wmT5.png"
+    ],
+    "videos": [
+    ],
+    "offerings": [
+      {
+        "guid": "aa2b3b60-20e6-4249-992f-90f27341a8e1",
+        "price": "$0.01 USD",
+        "title": "Two standard lightsabers"
+      },
+      {
+        "guid": "2917bb2a-94f7-4687-809e-5e6f8620fa5b",
+        "price": "$1.99 USD",
+        "title": "Luke Skywalker's lightsabers"
+      }
+    ]
+  }
 }
